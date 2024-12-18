@@ -1,4 +1,4 @@
-# Synthetic Time Series Data Generation GAN
+# Synthetic Time Series Data Generation using GANs
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.9%2B-red.svg)](https://pytorch.org/)
